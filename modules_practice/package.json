@@ -1,0 +1,17 @@
+{
+  "name": "NodeTest",
+  "version": "1.0.0",
+  "description": "A test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "keywords": [
+    "index"
+  ],
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
